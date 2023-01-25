@@ -8,3 +8,11 @@
 | ---------- | --------- |
 | Intro | Please |
 | Jello and peanut butter | Yes |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
