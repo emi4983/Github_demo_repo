@@ -4,15 +4,8 @@
 2. I am a Computer Engineered Major
 3. And this is my first time using GitHub
 
-| Hello | Can we please leave |
+| Pros | Cons |
 | ---------- | --------- |
-| Intro | Please |
-| Jello and peanut butter | Yes |
+| Salary | Hard-Work |
+| New creations | Tiredless  |
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
