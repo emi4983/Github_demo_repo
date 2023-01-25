@@ -10,3 +10,4 @@
 | New creations | Tiredless  |
 
 I like to go hiking ⛰️
+![Colorado Mountains] (John-Marino_Rock-Cut-view.jpg)
